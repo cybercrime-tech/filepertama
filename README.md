@@ -1,1 +1,10 @@
-# filepertama
+Hack FB ngincer
+$ Pembaruan Apt (Enter)
+$ Apt upgrade (Enter)
+$ Apt install python2 (Enter)
+$ pip2 pasang permintaan urllib3 chardet certifi idna (Enter)
+$ apt install openssl curl (Enter)
+$ pkg install libcurl (Enter)
+$ ln / sdcard (Enter) 
+$ cd / sdcard (Enter)
+$ python2 fbbrute.py (Enter)
